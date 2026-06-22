@@ -1,9 +1,0 @@
-.blackbox {
-  position: fixed;
-  tob: 0;
-  left: 0;
-  width: 100vw;
-  height: 100vw;
-  background: black;
-  z-index 999999;
-}
