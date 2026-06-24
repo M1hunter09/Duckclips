@@ -19,7 +19,7 @@ header {
  border-bottom: 1px solid #e9ecef;
 }
 
-.navbar, .Doodle-wrapper {
+.navbar, .logo-wrapper {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -41,7 +41,7 @@ header {
 .nav-links a.active {
   color: var(--blue-light);
 }
-.doodle-img {
+.logo-img {
   height: 30px;
   width: auto;
   object-fit: contain;
