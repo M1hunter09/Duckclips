@@ -15,14 +15,18 @@
  box-sizing: border-box;
 }
 
-body {
-  font-family: 'Montserrat', sans-serif;
+html {
   background-color: var(--bg);
   background-image: url('Images/Doodles.png');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background: none;
   color: var(--text-light);
   line-height: 1.6;
 }
